@@ -6,6 +6,7 @@
 >As with every post in SCRF, a discussion is highly encouraged. Please review one another's suggestions and include your own. Syllabi and curated lists from other sources are also welcome. Find the suggested format below:
 
 ### Sample Source Title
+
   * Non-paywalled Link to Source
   * Authors
   * 1 sentence about what the source is
