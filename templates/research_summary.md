@@ -1,10 +1,10 @@
 ---
-title: [Summary: XXX]
+title: [Research Summary - XXX]
 description: >-
   One or two sentence description
-tags: [tag1, tag1, tag1]
+tags: [tag1, tag2, tag3]
 created: [2020-12-25]
-researcher: [name]
+researcher: [full name]
 ---
 
 ### *TLDR*;
@@ -56,4 +56,3 @@ Share any follow-up work discussed by the researchers.
 ### Applicability
 
 Summarize any notes included by the research team on how this work is currently or might be applied in action in the industry. If not included, insert some commentary of clear-cut or obvious potential applications of the research work.
-
