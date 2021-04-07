@@ -7,9 +7,8 @@ created: [2020-12-25]
 researcher: [full name]
 ---
 
-### *TLDR*;
-
-Contains one to three bullets that distill the most condensed information about the key takeaways, notable results, or novel methodologies contained in the paper
+> ### TLDR:
+> Contains one to three bullets that distill the most condensed information about the key takeaways, notable results, or novel methodologies contained in the paper
 
 ### Core Research Question
 
