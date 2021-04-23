@@ -16,7 +16,7 @@ Provide a concise one-sentence statement of the core question being considered i
 
 ### Citation
 
-A journal-style citation (MLA, APA, IEEE, etc.) of the authors. The precise format is not predetermined, but please be as consistent/standardized as possible.
+A journal-style citation (MLA, APA, IEEE, etc.) of the authors. The precise format is not predetermined, but please be as consistent/standardized as possible. Any quotes, graphs, and data used in the summary must be included in this section, preferably using MLA-9.
 
 A link to the original research source on a non-paywall host; can be a SCRF-native host.
 
