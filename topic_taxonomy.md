@@ -45,7 +45,6 @@
 - [simulation](https://www.smartcontractresearch.org/tag/simulation)
 - [staking-derivatives](https://www.smartcontractresearch.org/tag/staking-derivatives)
 - [summary](https://www.smartcontractresearch.org/tag/summary)
-- [sybil attack](https://www.smartcontractresearch.org/t/research-summary-chainlink-a-decentralized-oracle-network/150)
 - [template](https://www.smartcontractresearch.org/tag/template)
 - [testing](https://www.smartcontractresearch.org/tag/testing)
 - [whitepaper](https://www.smartcontractresearch.org/tag/whitepaper)
