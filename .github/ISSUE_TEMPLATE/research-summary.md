@@ -35,6 +35,6 @@ Thanks for expressing interest in proposing a summary for SCRF. Before submissio
 
 3. Assign yourself to the issue
 
-4. Add the label "summary", and 1-3 other relevant tags
+4. Add the label "summary" or other relevant GiHub specific labels.
 
 --->
