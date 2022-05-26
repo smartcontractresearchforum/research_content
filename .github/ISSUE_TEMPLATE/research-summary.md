@@ -7,15 +7,15 @@ assignees: ''
 
 ---
 
-Description: 
+Contributor: 
 
-Estimated date of completion: 
+Drafting Deadline: 
 
-Link to Paper:
+Link to the Paper:
 
-Link to working draft:
+Link to the Draft:
 
-Source of approval: 
+Source of Approval: 
 
 <!--
 
@@ -25,8 +25,8 @@ Thanks for expressing interest in proposing a summary for SCRF. Before submissio
 
 2. Fill out the ticket and include:
 
-  - A description of why this summary is novel, timely, and interesting 
-  - Estimated date of completion (tentative)
+  - Your Name
+  - When can we expect your draft to be ready to turn in for review
   - A link to draft Google Doc, with the following specifications:
      a. Copy and paste the Research Summary template: https://github.com/smartcontractresearchforum/docs/blob/main/en/content_research_summary_template.md in the draft 
      b. Provide a publicly accessible link 
